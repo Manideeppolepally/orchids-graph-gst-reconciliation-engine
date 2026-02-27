@@ -1,0 +1,15 @@
+INFO:     Started server process [1667]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:46298 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53820 - "GET /taxpayers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41294 - "GET /reconcile/27AAAAA0000A1Z5?period=Feb-2026 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36174 - "GET /taxpayers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36174 - "GET /vendor-risk/27AAAAA0000A1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36178 - "GET /reconcile/27AAAAA0000A1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36174 - "GET /vendor-risk/29BBBBB0000B1Z6 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34398 - "GET /taxpayers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34398 - "GET /vendor-risk/27AAAAA0000A1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34398 - "GET /reconcile/27AAAAA0000A1Z5 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:0 - "GET / HTTP/1.1" 200 OK

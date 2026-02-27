@@ -1,0 +1,256 @@
+{
+    "taxpayers": [
+        {
+            "gstin": "27AAAAA0000A1Z5",
+            "legal_name": "ABC Tech Solutions Pvt Ltd",
+            "status": "Active"
+        },
+        {
+            "gstin": "29BBBBB0000B1Z6",
+            "legal_name": "XYZ Manufacturing Corp",
+            "status": "Active"
+        },
+        {
+            "gstin": "33CCCCC0000C1Z7",
+            "legal_name": "Global Traders Ltd",
+            "status": "Suspended"
+        },
+        {
+            "gstin": "19DDDDD0000D1Z8",
+            "legal_name": "Swift Logistics",
+            "status": "Active"
+        },
+        {
+            "gstin": "07EEEEE0000E1Z9",
+            "legal_name": "Innovate IT Services",
+            "status": "Active"
+        }
+    ],
+    "book_invoices": [
+        {
+            "irn": "irn_book_001",
+            "inv_num": "INV/2026/001",
+            "date": "2026-02-09",
+            "taxable_val": 5984,
+            "tax_amount": 1077.12,
+            "supplier_gstin": "19DDDDD0000D1Z8",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_002",
+            "inv_num": "INV/2026/002",
+            "date": "2026-02-16",
+            "taxable_val": 37862,
+            "tax_amount": 6815.16,
+            "supplier_gstin": "33CCCCC0000C1Z7",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_003",
+            "inv_num": "INV/2026/003",
+            "date": "2026-02-03",
+            "taxable_val": 49389,
+            "tax_amount": 8890.02,
+            "supplier_gstin": "29BBBBB0000B1Z6",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_004",
+            "inv_num": "INV/2026/004",
+            "date": "2026-02-09",
+            "taxable_val": 44699,
+            "tax_amount": 8045.82,
+            "supplier_gstin": "19DDDDD0000D1Z8",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_005",
+            "inv_num": "INV/2026/005",
+            "date": "2026-02-13",
+            "taxable_val": 3471,
+            "tax_amount": 624.78,
+            "supplier_gstin": "07EEEEE0000E1Z9",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_006",
+            "inv_num": "INV/2026/006",
+            "date": "2026-02-20",
+            "taxable_val": 2175,
+            "tax_amount": 391.5,
+            "supplier_gstin": "33CCCCC0000C1Z7",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_007",
+            "inv_num": "INV/2026/007",
+            "date": "2026-02-02",
+            "taxable_val": 24735,
+            "tax_amount": 4452.3,
+            "supplier_gstin": "29BBBBB0000B1Z6",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_008",
+            "inv_num": "INV/2026/008",
+            "date": "2026-02-18",
+            "taxable_val": 10325,
+            "tax_amount": 1858.5,
+            "supplier_gstin": "33CCCCC0000C1Z7",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_009",
+            "inv_num": "INV/2026/009",
+            "date": "2026-02-01",
+            "taxable_val": 21971,
+            "tax_amount": 3954.78,
+            "supplier_gstin": "33CCCCC0000C1Z7",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        },
+        {
+            "irn": "irn_book_010",
+            "inv_num": "INV/2026/010",
+            "date": "2026-02-10",
+            "taxable_val": 12057,
+            "tax_amount": 2170.26,
+            "supplier_gstin": "29BBBBB0000B1Z6",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "Books"
+        }
+    ],
+    "portal_invoices": [
+        {
+            "irn": "irn_portal_001",
+            "inv_num": "INV/2026/001",
+            "date": "2026-02-09",
+            "taxable_val": 5984,
+            "tax_amount": 1077.12,
+            "supplier_gstin": "19DDDDD0000D1Z8",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_002",
+            "inv_num": "INV/2026/002",
+            "date": "2026-02-16",
+            "taxable_val": 37862,
+            "tax_amount": 6815.16,
+            "supplier_gstin": "33CCCCC0000C1Z7",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_003",
+            "inv_num": "INV/2026/003",
+            "date": "2026-02-03",
+            "taxable_val": 49389,
+            "tax_amount": 8890.02,
+            "supplier_gstin": "29BBBBB0000B1Z6",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_004",
+            "inv_num": "INV/2026/004",
+            "date": "2026-02-09",
+            "taxable_val": 44699,
+            "tax_amount": 8045.82,
+            "supplier_gstin": "19DDDDD0000D1Z8",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_005",
+            "inv_num": "INV/2026/005",
+            "date": "2026-02-13",
+            "taxable_val": 3471,
+            "tax_amount": 624.78,
+            "supplier_gstin": "07EEEEE0000E1Z9",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_006",
+            "inv_num": "INV/2026/006",
+            "date": "2026-02-20",
+            "taxable_val": 2175,
+            "tax_amount": 391.5,
+            "supplier_gstin": "33CCCCC0000C1Z7",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_007",
+            "inv_num": "INV/2026/007",
+            "date": "2026-02-02",
+            "taxable_val": 24735,
+            "tax_amount": 4452.3,
+            "supplier_gstin": "29BBBBB0000B1Z6",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_008",
+            "inv_num": "INV/2026/008",
+            "date": "2026-02-18",
+            "taxable_val": 10325,
+            "tax_amount": 1869.0,
+            "supplier_gstin": "33CCCCC0000C1Z7",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_extra_001",
+            "inv_num": "EXT/2026/001",
+            "date": "2026-02-25",
+            "taxable_val": 8936,
+            "tax_amount": 1608.48,
+            "supplier_gstin": "07EEEEE0000E1Z9",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        },
+        {
+            "irn": "irn_portal_extra_002",
+            "inv_num": "EXT/2026/002",
+            "date": "2026-02-04",
+            "taxable_val": 4286,
+            "tax_amount": 771.48,
+            "supplier_gstin": "29BBBBB0000B1Z6",
+            "recipient_gstin": "27AAAAA0000A1Z5",
+            "source": "GSTR-2B"
+        }
+    ],
+    "returns": [
+        {
+            "return_id": "rtn_001",
+            "rtn_type": "GSTR-3B",
+            "tax_period": "Feb-2026",
+            "gstin": "27AAAAA0000A1Z5",
+            "status": "Filed"
+        },
+        {
+            "return_id": "rtn_002",
+            "rtn_type": "GSTR-1",
+            "tax_period": "Feb-2026",
+            "gstin": "29BBBBB0000B1Z6",
+            "status": "Filed"
+        },
+        {
+            "return_id": "rtn_003",
+            "rtn_type": "GSTR-1",
+            "tax_period": "Feb-2026",
+            "gstin": "19DDDDD0000D1Z8",
+            "status": "Filed"
+        }
+    ]
+}
